@@ -2,11 +2,11 @@
 
     #Conditional expression = A one- line shortcut for if-else statement
 
-num = 20
-a = 6
-b = 10
-age =  23
-temperature = -1
+num = 90
+a = 3
+b = 48
+age =  24
+temperature = -20
 user_role = "admin"
 
 print("Positive" if num > 0 else "Negative")
