@@ -18,7 +18,7 @@ while rate <= 0:
 while time <= 0:
     time = float(input("Enter the time (in years) : "))
     if time <= 0:
-        print("Please Enter a valid time (in years)!!")
+        print("Please Enter a valid time (in years) !!")
 
     amount = principle * (1 + rate / 100) ** time
     print(f"The Total Amount after {time} years is {amount:.2f}₹")
