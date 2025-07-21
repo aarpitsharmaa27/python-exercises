@@ -2,10 +2,10 @@
 
     #Conditional expression = A one- line shortcut for if-else statement
 
-num = 90
-a = 3
-b = 48
-age =  24
+num = 27
+a = 9
+b = 27
+age =  22
 temperature = -20
 user_role = "admin"
 
