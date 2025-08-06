@@ -2,7 +2,7 @@
 
     #Conditional expression = A one- line shortcut for if-else statement
 
-num = 27
+num = -27
 a = 9
 b = 27
 age =  22
@@ -27,3 +27,4 @@ print(weather)
 
 login = "Full Access" if user_role == "admin" else "Limited Access"
 print(login)
+
